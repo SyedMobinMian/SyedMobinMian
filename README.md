@@ -26,9 +26,13 @@
 ---
 
 ## 🌱 Currently Learning
-- Advanced Laravel (API, middleware, queues)  
-- Docker for deployments  
-- Python scripting for automation
+- Advanced Laravel (API, middleware, queues)
+- Node.js and backend development  
+- Spring Boot & Maven (Java ecosystem)  
+- Python scripting and automation  
+- Linux environments (Ubuntu/Debian)  
+- Cloud deployment & Docker best practices
+
 
 ---
 
