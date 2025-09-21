@@ -8,12 +8,13 @@
 
 ---
 
-## 🚀 Skills
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind  
-- **Backend:** PHP, Laravel, CodeIgniter  
-- **Databases:** MySQL, MS Access  
-- **Other Knowledge:** Python, Java, Docker  
-- **Tools:** GitHub, Git Bash, VS Code, XAMPP, FileZilla  
+- ## 🚀 Skills
+**Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind  
+**Backend:** PHP, Laravel, CodeIgniter  
+**Databases:** MySQL, MS Access  
+**Programming / Other Knowledge:** Python, Java, Node.js (learning), Spring Boot basics, Maven  
+**Tools & Platforms:** GitHub, Git Bash, VS Code, XAMPP, FileZilla, MySQL Workbench, VirtualBox (Ubuntu, Debian)  
+**Other Skills:** Advanced MS Excel (PivotTables, formulas), Networking fundamentals
 
 ---
 
