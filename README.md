@@ -12,7 +12,7 @@
 **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind  
 **Backend:** PHP, Laravel, CodeIgniter  
 **Databases:** MySQL, MS Access  
-**Programming / Other Knowledge:** Python, Java, Node.js (learning), Spring Boot basics, Maven  
+**Programming / Other Knowledge:** Python, Java, Node.js (learning), React.js (learning), Spring Boot basics, Maven  
 **Tools & Platforms:** GitHub, Git Bash, VS Code, XAMPP, FileZilla, MySQL Workbench, VirtualBox (Ubuntu, Debian)  
 **Other Skills:** Advanced MS Excel (PivotTables, formulas), Networking fundamentals
 
@@ -28,8 +28,7 @@
 ## 🌱 Currently Learning
 - Advanced Laravel (API, middleware, queues)
 - Node.js and backend development  
-- Spring Boot & Maven (Java ecosystem)  
-- Python scripting and automation  
+- React.js  
 - Linux environments (Ubuntu/Debian)  
 - Cloud deployment & Docker best practices
 
