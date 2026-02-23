@@ -11,7 +11,7 @@
 - ## 🚀 Skills
 **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind  
 **Backend:** PHP, Laravel, CodeIgniter  
-**Databases:** MySQL, MS Access  
+**Databases:** MySQL, PostgreSQL MS Access  
 **Programming / Other Knowledge:** Python, Java, Node.js (learning), React.js (learning), Spring Boot basics, Maven  
 **Tools & Platforms:** GitHub, Git Bash, VS Code, XAMPP, FileZilla, MySQL Workbench, VirtualBox (Ubuntu, Debian)  
 **Other Skills:** Advanced MS Excel (PivotTables, formulas), Networking fundamentals
